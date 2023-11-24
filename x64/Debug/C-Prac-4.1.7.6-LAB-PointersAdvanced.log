@@ -1,0 +1,10 @@
+﻿  C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.7.6-LAB-PointersAdvanced\C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp(55,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.7.6-LAB-PointersAdvanced\C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp(55,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.7.6-LAB-PointersAdvanced\C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp(55,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.7.6-LAB-PointersAdvanced\C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp(55,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.7.6-LAB-PointersAdvanced\C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp(55,49): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.7.6-LAB-PointersAdvanced\C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp(55,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.7.6-LAB-PointersAdvanced\C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp(55,59): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\C-Prac-4.1.7.6-LAB-PointersAdvanced\C-Prac-4.1.7.6-LAB-PointersAdvanced.cpp(55,68): warning C4305: 'initializing': truncation from 'double' to 'float'
+  C-Prac-4.1.7.6-LAB-PointersAdvanced.vcxproj -> E:\Window tools\Desktop\Carpetas Eithan\Programación\Repositorios\C projects\C projects 4\x64\Debug\C-Prac-4.1.7.6-LAB-PointersAdvanced.exe
